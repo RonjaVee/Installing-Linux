@@ -10,7 +10,7 @@ I needed a flash drive, so I walked to the nearest department store and picked u
 
 ### The process
 
-I used [Debian 12 Tutorial for Beginners - Installation & Setup [Cinnamon by Linux Ort]](https://www.youtube.com/watch?v=zOZEkzwhThc) Youtube video as a guide for the process. I downloaded the installer from [https://www.debian.org/download](https://www.debian.org/download). 
+I used [Debian 12 Tutorial for Beginners - Installation & Setup [Cinnamon] by Linux Ort](https://www.youtube.com/watch?v=zOZEkzwhThc) Youtube video as a guide for the process. I downloaded the installer from [https://www.debian.org/download](https://www.debian.org/download). 
 
 I used [BalenaEtcher](https://etcher.balena.io/) to use my USB stick for installing. I installed BalenaEtcher and did the following:
 
