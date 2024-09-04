@@ -16,7 +16,7 @@ I used [BalenaEtcher](https://etcher.balena.io/) to use my USB stick for install
 
 ![image](https://github.com/user-attachments/assets/2eb49861-1807-4414-b575-21d4eaf9670e)
 
-I ran into an issue. Once I selected the debian-12.7.0-amd64-netinst.iso file on Flash from file, it didn't proceed to Select target. Hovering over "select target" changes pointer to not-allowed. I found that someone else had had the same issue [https://github.com/balena-io/etcher/issues/4234](https://github.com/balena-io/etcher/issues/4234) and decided to try another etcher. I installed Rufus from Windows store, and it seemed to work (it was in Finnish as my Windows' language is set to Finnish). It had the USB drive chosen, I selected the Debian file and then 
+I ran into an issue. Once I selected the debian-12.7.0-amd64-netinst.iso file on Flash from file, it didn't proceed to Select target. Hovering over "select target" changes pointer to not-allowed. I found that someone else had had the same issue [https://github.com/balena-io/etcher/issues/4234](https://github.com/balena-io/etcher/issues/4234) and decided to try another etcher. I installed Rufus from Windows store, and it seemed to work (it was in Finnish as my Windows' language is set to Finnish). It had the USB drive chosen, I selected the Debian file and then it had some questions, I selected yes/OK.
 
 ![image](https://github.com/user-attachments/assets/3d0e6ed7-0742-43b7-a333-05779ae3efa6)
 
@@ -26,4 +26,7 @@ I ran into an issue. Once I selected the debian-12.7.0-amd64-netinst.iso file on
 
 ![image](https://github.com/user-attachments/assets/be532222-f1d6-4365-818f-ccb0166b6fc4)
 
+![image](https://github.com/user-attachments/assets/3cdcdcb2-b196-4dec-accf-18cfdbc5c88c)
+
+It took around a minute and then it was ready. Then it was time to start the laptop from the USB stick.
 
