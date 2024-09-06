@@ -43,7 +43,7 @@ The installer opened, and I did the following decisions and configurations:
 - Used my firstname as username
 - Disk partition -> use the entire disk, all files in one partition
 - Configure the package manager -> Finland, Debian archive mirror ftp.fi.debian.org / https://www.debian.org/mirror/list.fi.html
-- Popularity contest -> yes
+- Popularity contest -> yes [https://popcon.debian.org/README](https://popcon.debian.org/README)
 - Software selection -> cinnamon
 
 The installing process took around 10 minutes after I klicked through all of the above. After it was finished, it asked me wether I wanted to install grub booter -> yes. 
