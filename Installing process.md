@@ -28,5 +28,25 @@ I ran into an issue. Once I selected the debian-12.7.0-amd64-netinst.iso file on
 
 ![image](https://github.com/user-attachments/assets/3cdcdcb2-b196-4dec-accf-18cfdbc5c88c)
 
-It took around a minute and then it was ready. Then it was time to start the laptop from the USB stick.
+It took around a minute and then it was ready. Then it was time to start the laptop from the USB stick. I restarted the laptop, pressed F11 repeatedly and from the boot menu chose "generic".
+
+The installer opened, and I did the following decisions and configurations:
+
+- Install process language English
+- Location other -> Europe -> Finland
+- Locale UK (nearest to Finland)
+- Finnish keyboard
+- Network interface during installation process was wireless (wifi from my phone)
+- Named the host
+- Left domain name empty
+- Left root info empty, my personal account will have sudo rights
+- Used my firstname as username
+- Disk partition -> use the entire disk, all files in one partition
+- Configure the package manager -> Finland, Debian archive mirror ftp.fi.debian.org / https://www.debian.org/mirror/list.fi.html
+- Popularity contest -> yes
+- Software selection -> cinnamon
+
+The installing process took around 10 minutes after I klicked through all of the above. After it was finished, it asked me wether I wanted to install grub booter -> yes. 
+
+The installation was now complete.
 
