@@ -40,7 +40,6 @@ The installer opened, and I did the following decisions and configurations:
 - Named the host
 - Left domain name empty
 - Left root info empty, my personal account will have sudo rights
-- Used my firstname as username
 - Disk partition -> use the entire disk, all files in one partition
 - Configure the package manager -> Finland, Debian archive mirror ftp.fi.debian.org / https://www.debian.org/mirror/list.fi.html
 - Popularity contest -> yes [https://popcon.debian.org/README](https://popcon.debian.org/README)
