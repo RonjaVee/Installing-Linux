@@ -45,7 +45,7 @@ The installer opened, and I did the following decisions and configurations:
 - Popularity contest -> yes [https://popcon.debian.org/README](https://popcon.debian.org/README)
 - Software selection -> cinnamon
 
-The installing process took around 10 minutes after I klicked through all of the above. After it was finished, it asked me wether I wanted to install grub booter -> yes. 
+The installing process took around 10 minutes after I klicked through all of the above. After it was finished, it asked me wether I wanted to install grub booter -> yes, as this will be my only OS on this device.
 
 The installation was now complete.
 
